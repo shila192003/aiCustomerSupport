@@ -1,0 +1,6 @@
+Ticket_ID,Subject,Description,Category,Priority,Timestamp
+1,App crashes on save,"When I try to save my project the app crashes with exit code 1.",Bug Report,High,2025-12-01 10:12:00
+2,Request dark mode,"It would be great to have a dark mode for the app UI.",Feature Request,Low,2025-11-15 08:45:00
+3,Login fails intermittently,"Users report that login fails with a 500 error intermittently.",Technical Issue,High,2025-12-05 14:20:00
+4,Incorrect invoice amount,"My last invoice shows an extra charge I don't recognize.",Billing Inquiry,Medium,2025-10-21 09:30:00
+5,Can't change email,"I cannot update my account email address from settings.",Account Management,Medium,2025-09-30 16:05:00
